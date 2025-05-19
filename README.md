@@ -26,4 +26,3 @@ CSS3 — For stylish design and animations (Flexbox, Grid)
 
 JavaScript — For menu interactions, form validations, dynamic effects
 
-🔴 Live Demo https://adarsh-70.github.io/Coffee-House-Website/
